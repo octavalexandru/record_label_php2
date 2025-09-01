@@ -1,0 +1,9 @@
+/vendor/
+.env
+*.log
+.idea/
+.DS_Store
+node_modules/
+*.zip
+.env
+config.php
