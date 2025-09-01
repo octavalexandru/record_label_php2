@@ -1,0 +1,18 @@
+{
+    "name": "octav/proiect",
+    "autoload": {
+        "psr-4": {
+            "Octav\\Proiect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "octavalexandru",
+            "email": "octav-andrei.alexandru@s.unibuc.ro"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
