@@ -5,5 +5,4 @@
 .DS_Store
 node_modules/
 *.zip
-.env
-config.php
+/config/
