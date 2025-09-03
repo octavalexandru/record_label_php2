@@ -1,8 +1,21 @@
-/vendor/
+# Environment files
 .env
+
+# Logs
 *.log
+
+# IDE and system files
 .idea/
 .DS_Store
+
+# Node modules
 node_modules/
+
+# Vendor (PHP dependencies)
+vendor/
+
+# Archives
 *.zip
-/config/
+
+# Config (keep private)
+config/
